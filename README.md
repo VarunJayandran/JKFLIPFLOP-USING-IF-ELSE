@@ -1,3 +1,5 @@
+## Name : VARUN JC
+## Reg no : 212224240179
 # JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
